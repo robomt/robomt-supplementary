@@ -150,7 +150,6 @@ We recommend using `σ = 1.2` as the **default setting**, with task-specific tun
 | kl_weight       | 10        | KL divergence weight (for policy learning)    |
 
 ---
-
 ## Datasets
 
 Collected using a bilateral teleoperation platform involving Sigma.7 and Franka Emika Panda.
@@ -181,10 +180,7 @@ Metrics:
 Each plot shows:
 - Comparisons between **RoboMT**, **Comp-ACT**, and **Human** baselines
 
----
-
 All visualizations are located in the `analysis/` directory.
-
 
 ---
 

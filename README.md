@@ -61,8 +61,8 @@ The threshold parameter ε determines how the model distinguishes between stable
 
 #### Experimental Justification
 
-- ** Lower ε **: Provides more sensitive adaptation to contact variations, suitable for tight-tolerance tasks.
-- ** Higher ε **: Reduces reaction to minor noise, beneficial for high-contact-surface plugs.
+- Lower ε: Provides more sensitive adaptation to contact variations, suitable for tight-tolerance tasks.
+- Higher ε: Reduces reaction to minor noise, beneficial for high-contact-surface plugs.
 
 These values are defined in `configs/robomt_default.yaml` for runtime selection.
 
